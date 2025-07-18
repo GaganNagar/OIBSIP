@@ -27,5 +27,7 @@ Task 1 - Landing Page/
 1. Clone this repository or download the folder.
 2. Open `index.html` in any modern web browser.
 
-## Screenshots (Add if needed)
-[Landing Page Screenshot](screenshot.png)
+## Screenshots (Images)
+1.[Landing Page Screenshot](screenshot.png)
+![alt text](secure-illustration.png)
+![alt text](device-illustration.png)
