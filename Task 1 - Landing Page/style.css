@@ -8,6 +8,7 @@ body {
   font-family: 'Segoe UI', sans-serif;
   background-color: #ffffff;
   color: #111;
+  position: relative;
 }
 
 header {
@@ -17,6 +18,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: sticky;
+  top: 0%;
 }
 
 header .logo {
@@ -58,6 +61,47 @@ nav a {
   border-radius: 5px;
   font-weight: bold;
 }
+    #about {
+      max-width: 900px;
+      margin: 60px auto;
+      padding: 40px;
+      background-color: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    #about h2 {
+      font-size: 2rem;
+      color: #1a73e8;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    #about p {
+      line-height: 1.8;
+      font-size: 1.05rem;
+      margin-bottom: 18px;
+    }
+
+    strong {
+      color: #222;
+    }
+
+    @media (max-width: 600px) {
+      #about {
+        padding: 25px;
+        margin: 30px 15px;
+      }
+
+      #about h2 {
+        font-size: 1.5rem;
+      }
+
+      #about p {
+        font-size: 1rem;
+      }
+    }
+
 
 .section {
   display: flex;
