@@ -1,88 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>My Portfolio</title>
-  <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gagan Nagar - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <header>
-    <div class="logo">John Doe</div>
-    <nav>
-      <a href="#home">Home</a>
-      <a href="#projects">Projects</a>
-      <a href="#skills">Skills</a>
-      <a href="#contact">Contact</a>
-    </nav>
-  </header>
+    <header class="header">
+        <nav class="navbar">
+            <a href="#hero" class="logo">Gagan Nagar</a>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
 
-  <section class="hero" id="home">
-    <div class="hero-content">
-      <img src="https://via.placeholder.com/150" alt="Profile Photo">
-      <h1>John Doe</h1>
-      <p>Frontend Developer | HTML, CSS, JavaScript</p>
-    </div>
-  </section>
+    <main>
+        <section id="hero" class="hero-section section">
+            <div class="container">
+                <h1>Hi, I'm Gagan Nagar</h1>
+                <p>A Front-End Developer passionate about creating beautiful web experiences.</p>
+                <a href="#projects" class="btn">View My Work</a>
+            </div>
+        </section>
 
-  <section class="projects" id="projects">
-    <h2>Projects</h2>
-    <div class="project-grid">
-      <div class="project-card">
-        <h3>Portfolio Website</h3>
-        <p>A personal website to showcase my skills and projects.</p>
-        <small>HTML, CSS</small>
-      </div>
-      <div class="project-card">
-        <h3>Task Manager</h3>
-        <p>A simple task manager UI layout with responsiveness.</p>
-        <small>HTML, CSS, Flexbox</small>
-      </div>
-      <div class="project-card">
-        <h3>Product Landing Page</h3>
-        <p>A clean landing page design for a fictional product.</p>
-        <small>HTML, CSS, Grid</small>
-      </div>
-    </div>
-  </section>
+        <section id="about" class="about-section section">
+            <div class="container">
+                <h2>About Me</h2>
+                <div class="about-content">
+                    <img src="images/MyProfilePhoto.jpg" alt="Your Profile Picture" class="profile-pic">
+                    <p>Welcome to my portfolio! I specialize in building responsive and user-friendly web applications using HTML and CSS. My goal is to transform ideas into captivating digital experiences.</p>
+                    <p>I am constantly learning new technologies and improving my craft to deliver high-quality, scalable solutions.</p>
+                    <a href="images/GaganResume.pdf" class="btn" download>Download Resume</a>
+                </div>
+            </div>
+        </section>
 
-  <section class="skills" id="skills">
-    <h2>Skills</h2>
-    <div class="skills-list">
-      <div>
-        <h4>Frontend</h4>
-        <ul>
-          <li>HTML5</li>
-          <li>CSS3</li>
-          <li>JavaScript</li>
-          <li>Responsive Design</li>
-        </ul>
-      </div>
-      <div>
-        <h4>Backend</h4>
-        <ul>
-          <li>Node.js</li>
-          <li>Express</li>
-          <li>MongoDB</li>
-        </ul>
-      </div>
-    </div>
-  </section>
+        <section id="skills" class="skills-section section">
+            <div class="container">
+                <h2>Skills</h2>
+                <div class="skills-grid">
+                    <div class="skill-item">HTML5</div>
+                    <div class="skill-item">CSS3</div>
+                    <div class="skill-item">Responsive Design</div>
+                    <div class="skill-item">Git & GitHub</div>
+                    <div class="skill-item">Javascript (ES6)</div>
+                </div>
+            </div>
+        </section>
 
-  <section class="contact" id="contact">
-    <h2>Contact</h2>
-    <p>Let's connect!</p>
-    <ul class="contact-links">
-      <li><a href="https://github.com/">GitHub</a></li>
-      <li><a href="https://linkedin.com/">LinkedIn</a></li>
-      <li><a href="mailto:your@email.com">Email</a></li>
-    </ul>
-  </section>
+        <section id="projects" class="projects-section section">
+            <div class="container">
+                <h2>My Projects</h2>
+                <div class="projects-grid">
+                    <div class="project-card">
+                        <img style="height: 40%; width: 100%; margin-bottom: 25px;" src="images/secure net.PNG" alt="Project 1">
+                        <h3>SecureNet Landing Page</h3>
+                        <p>A responsive and visually engaging landing page designed for a cybersecurity company using HTML and CSS.</p>
+                        <div class="project-links">
+                            <a href="#" target="_blank" class="btn-small">Live Demo</a>
+                            <a href="https://github.com/GaganNagar/OIBSIP/tree/main" target="_blank" class="btn-small">GitHub Repo</a>
+                        </div>
+                    </div>
+                    <div class="project-card">
+                        <img  src="images/temperature converter.jpg" alt="Project 2">
+                        <h3>Temperature Converter </h3>
+                        <p>A simple web app that converts temperature between Celsius, Fahrenheit, and Kelvin using HTML, CSS, and JavaScript.</p>
+                        <div class="project-links">
+                            <a href="#" target="_blank" class="btn-small">Live Demo</a>
+                            <a href="#\https://github.com/GaganNagar/OIBSIP/tree/main" target="_blank" class="btn-small">GitHub Repo</a>
+                        </div>
+                    </div>
+                    </div>
+            </div>
+        </section>
 
-  <footer>
-    <p>&copy; 2025 John Doe. All rights reserved.</p>
-  </footer>
+        <section id="contact" class="contact-section section">
+            <div class="container">
+                <h2>Get in Touch</h2>
+                <p>Have a question or want to work together? Feel free to reach out!</p>
+                <form class="contact-form" action="https://formspree.io/f/your_form_id" method="POST">
+                    <input type="text" name="name" placeholder="Your Name" required>
+                    <input type="email" name="_replyto" placeholder="Your Email" required>
+                    <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+                    <button type="submit" class="btn">Send Message</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Gagan Nagar. All rights reserved.</p>
+            <div class="social-links">
+                <a href="https://linkedIn.com/in/gagannagar" target="_blank">LinkedIn</a>
+                <a href="https://github.com/GaganNagar" target="_blank">GitHub</a>
+                </div>
+        </div>
+    </footer>
 
 </body>
 </html>
