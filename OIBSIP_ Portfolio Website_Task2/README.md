@@ -1,31 +1,22 @@
-# Task 2: Portfolio Website
+# Task 2 - Personal Portfolio Website
 
-## Overview
-This is a responsive personal portfolio website built using HTML and CSS. The project was created as part of the Oasis Infobyte Web Development Internship (Level 1). It highlights my profile, projects, skills, and contact information in a clean and modern layout.
+## Objective
+To create a personal portfolio website to showcase my skills, projects, and contact information as a frontend/web developer.
 
-## Features
-- Responsive design using Flexbox and Grid
-- Hero section with image, name, and role
-- Projects section with detailed project cards
-- Skills section split into Frontend and Backend
-- Contact section with GitHub, LinkedIn, and Email links
-- Footer with copyright
+## Steps Performed
+- Structured the site into sections: Home, About, Projects, Skills, and Contact.
+- Designed with CSS to create an interactive and visually appealing UI.
+- Implemented responsiveness for mobile, tablet, and desktop views.
 
-## Technologies Used
-- HTML5
-- CSS3 (Flexbox, Grid, Media Queries)
-- No JavaScript or frameworks
+## Tools Used
+- HTML
+- CSS
+- JavaScript (basic interactivity)
+- Visual Studio Code
+- Git & GitHub
 
-## Folder Structure
-Task 2 - Portfolio Website/
-├── index.html
-├── style.css
-├── README.md
+## Outcome
+A responsive and personalized portfolio website highlighting my work and frontend skills, deployed on Vercel.
 
-
-## How to Run
-1. Download or clone this repository
-2. Open `index.html` in any modern web browser
-
-## Screenshots (Optional)
-[Portfolio Screenshot](screenshot.png)
+## GitHub Repository Link
+https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_PortfolioWebsite_Task2
