@@ -17,18 +17,18 @@ This repository contains the completed tasks submitted for the Web Development a
 Task 1 – Secure Net Landing Page  
 Description: A responsive landing page for a fictional cybersecurity company.  
 Folder: OIBSIP_SecureNetLandingPage_Task1
-GitHub Folder Link: [View Task 1 Code](https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_SecureNetLandingPage_Task1)  
+GitHub Folder Link:(https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_SecureNetLandingPage_Task1)  
 
 
 Task 2 – Personal Portfolio Website
 Description: A personal portfolio website to showcase skills and projects.  
 Folder: OIBSIP_ Portfolio Website_Task2  
-GitHub Folder Link: [View Task 2 Code](https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_ Portfolio Website_Task2)
+GitHub Folder Link: (https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_ Portfolio Website_Task2)
 
 Task 3 – Temperature Converter  
 Description: A temperature converter application to convert between Celsius, Fahrenheit, and Kelvin.  
 Folder: OIBSIP_Temperature Converter_Task3
-GitHub Folder Link: [View Task 3 Code](https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_Temperature Converter_Task3)  
+GitHub Folder Link: (https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_Temperature Converter_Task3)  
 
 #Internship Information
 
