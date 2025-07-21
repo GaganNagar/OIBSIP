@@ -3,30 +3,42 @@ Oasis Infobyte Internship Projects (OIBSIP)
 #Intern Details
 Name: Gagan Nagar  
 Role: Web Development & Designing Intern  
-Internship Duration:** July 5 – August 15, 2025  
-Organization:** Oasis Infobyte (AICTE Virtual Internship Program)
+Internship Duration: July 5 – August 15, 2025  
+Organization: Oasis Infobyte (AICTE Virtual Internship Program)
 
 #Tasks Completed
 
-## ✅ Task 1: Landing Page
-A responsive landing page using HTML & CSS.  
-[View Task 1 Folder](./Task%201%20-%20Landing%20Page)
+# OIBSIP Web Development Internship – Level 1
 
-## ✅ Task 2: Portfolio Website
-A personal portfolio website with projects, skills, and contact.  
-[View Task 2 Folder](./Task%202%20-%20Portfolio%20Website)
+This repository contains the completed tasks submitted for the Web Development and Designing Internship Program at Oasis Infobyte under Level 1.
 
-## ✅ Task 3: Temperature Converter
-A responsive converter app using HTML, CSS & JavaScript.  
-[View Task 3 Folder](./Task%203%20-%20Temperature%20Converter)
+## Task Overview
 
-## Notes
-- Each task contains its own `README.md`, source files, and responsive layout.
-- Repository is structured and documented for easy understanding.
-- No frameworks or libraries used — pure HTML, CSS, and JavaScript.
+Task 1 – Secure Net Landing Page  
+Description: A responsive landing page for a fictional cybersecurity company.  
+Folder: OIBSIP_SecureNetLandingPage_Task1
+GitHub Folder Link: [View Task 1 Code](https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_SecureNetLandingPage_Task1)  
 
 
-## Connect with Me
--  [LinkedIn](https://linkedin.com/in/gaga)
--  [GitHub](https://github.com/GaganNagar)
--  gaganngr319@gmail.com
+Task 2 – Personal Portfolio Website
+Description: A personal portfolio website to showcase skills and projects.  
+Folder: OIBSIP_ Portfolio Website_Task2  
+GitHub Folder Link: [View Task 2 Code](https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_ Portfolio Website_Task2)
+
+Task 3 – Temperature Converter  
+Description: A temperature converter application to convert between Celsius, Fahrenheit, and Kelvin.  
+Folder: OIBSIP_Temperature Converter_Task3
+GitHub Folder Link: [View Task 3 Code](https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_Temperature Converter_Task3)  
+
+#Internship Information
+
+Internship Provider: Oasis Infobyte  
+Internship Role: Web Development and Designing – Level 1  
+Intern: Gagan Nagar  
+Email: gaganngr319@gmail.com
+
+## Technology Used
+
+- HTML  
+- CSS    
+- Git & GitHub  
