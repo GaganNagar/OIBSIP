@@ -23,12 +23,12 @@ GitHub Folder Link:(https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/t
 Task 2 – Personal Portfolio Website
 Description: A personal portfolio website to showcase skills and projects.  
 Folder: OIBSIP_ Portfolio Website_Task2  
-GitHub Folder Link: (https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_ Portfolio Website_Task2)
+GitHub Folder Link: (https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_ PortfolioWebsite_Task2)
 
 Task 3 – Temperature Converter  
 Description: A temperature converter application to convert between Celsius, Fahrenheit, and Kelvin.  
 Folder: OIBSIP_Temperature Converter_Task3
-GitHub Folder Link: (https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_Temperature Converter_Task3)  
+GitHub Folder Link: (https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_TemperatureConverter_Task3)  
 
 #Internship Information
 
