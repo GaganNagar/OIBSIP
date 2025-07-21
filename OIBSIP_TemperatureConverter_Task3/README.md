@@ -1,38 +1,23 @@
-# Task 3: Temperature Converter Web App
+# Task 3 - Temperature Converter
 
-## Overview
-This is a simple and responsive temperature converter web application built using HTML, CSS, and JavaScript. It allows users to convert temperature values between Celsius, Fahrenheit, and Kelvin.
+## Objective
+To build a temperature converter web application that allows conversion between Celsius, Fahrenheit, and Kelvin.
 
-This project is created as part of the Oasis Infobyte Web Development Internship (Level 1).
+## Steps Performed
+- Designed a user interface with input fields and dropdowns using HTML and CSS.
+- Wrote JavaScript logic to perform real-time temperature conversion.
+- Tested the application for various input types and edge cases.
 
-## Features
-- Convert temperatures between:
-  - Celsius ↔ Fahrenheit
-  - Celsius ↔ Kelvin
-  - Fahrenheit ↔ Kelvin
-- Clean and minimal UI
-- Responsive design for mobile and desktop
-- Real-time result displayed on conversion
+## Tools Used
+- HTML
+- CSS
+- Visual Studio Code
+- Git & GitHub
 
-## Technologies Used
-- HTML5
-- CSS3 (Flexbox, Media Queries)
-- JavaScript (DOM manipulation and conversion logic)
+## Outcome
+A working temperature converter that helps users easily convert values between different units, with a clean and user-friendly interface.
 
-## Folder Structure
-Task 3 - Temperature Converter/
-├── index.html
-├── styles.css
-├── script.js
-├── README.md
+## GitHub Repository Link
+https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIP_TemperatureConverter_Task3
 
 
-## How to Use
-1. Clone or download the repository.
-2. Open `index.html` in any modern browser.
-3. Enter a temperature value.
-4. Select the "From" and "To" units.
-5. Click **Convert** to see the result.
-
-## Screenshots (Optional)
-[Temperature Converter Screenshot](screenshot.png)

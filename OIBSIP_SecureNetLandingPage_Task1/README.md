@@ -1,33 +1,23 @@
-# Task 1: Landing Page - SecureNet
+# Task 1 - Secure Net Landing Page
 
-## Overview
-This is a fully responsive landing page designed for "SecureNet", a fictional internet security service. The page showcases the brand, its features, benefits, and call-to-action sections, following modern UI principles.
+## Objective
+To design and develop a professional and responsive landing page for a fictional cybersecurity company named Secure Net.
 
-## Features
-- Responsive layout using Flexbox and media queries
-- Hero section with call-to-action button
-- Two-column feature sections with illustrations
-- Feature grid highlighting key benefits
-- Stats section with global reach data
-- Clean footer with contact and social icons
+## Steps Performed
+- Created the page layout using HTML5 semantic elements.
+- Styled the page with CSS Flexbox and Grid for responsiveness.
+- Ensured compatibility across different screen sizes and devices.
 
-## Technologies Used
-- HTML5
-- CSS3 (Flexbox, Grid, Media Queries)
-- No JavaScript or frameworks used
+## Tools Used
+- HTML
+- CSS
+- Visual Studio Code
+- Git & GitHub
 
-## Folder Structure
-Task 1 - Landing Page/
-├── index.html
-├── style.css
-├── README.md
+## Outcome
+A clean and fully responsive landing page that demonstrates modern frontend layout and design techniques.
+
+## GitHub Repository Link
+https://github.com/GaganNagar/OIBSIP_WebDevelopment_Level1/tree/main/OIBSIPSecureNetLandingPage_Task1
 
 
-## How to Run
-1. Clone this repository or download the folder.
-2. Open `index.html` in any modern web browser.
-
-## Screenshots (Images)
-1.[Landing Page Screenshot](screenshot.png)
-![alt text](secure-illustration.png)
-![alt text](device-illustration.png)
